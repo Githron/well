@@ -2,10 +2,6 @@ import { useEffect, useState } from "react";
 import tempVideo from "./assets/video/temp.mp4";
 
 const validPasswords = [
-  "Dimokolove",
-  "Di mo ko luv",
-  "Di mo ko lab",
-  "D mu q luv",
   "Rwx012278",
   "July222018",
   "July 22, 2018",
