@@ -27,7 +27,7 @@ export default function Secret() {
   function handleUnlock() {
     const now = Date.now();
 
-    if (now > unlockTime) {
+    if (now < unlockTime) {
       setError("ACCESS LOCKED · 21:09:26");
       return;
     }
