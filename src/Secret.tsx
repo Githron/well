@@ -194,6 +194,8 @@ export default function Secret() {
 
           <p>And if I had to choose again, I would still choose you.</p>
 
+          <h1>I LOVE YOU</h1>
+
           <div className="secret-signature">— END OF TRANSMISSION —</div>
         </div>
       )}
