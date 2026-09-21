@@ -178,7 +178,7 @@ export default function Secret() {
             PERSONAL MESSAGE
           </div>
 
-          <h2>TO YOU.</h2>
+          <h2>TO WELLA</h2>
 
           <p>
             Eight years, two months, and somehow, I still
